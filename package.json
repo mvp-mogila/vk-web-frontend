@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "debug": "^4.3.4"
-  },
   "name": "vk-web-front",
   "version": "1.0.0",
   "main": "index.js",
@@ -11,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "debug": "^4.3.4"
+  }
 }
